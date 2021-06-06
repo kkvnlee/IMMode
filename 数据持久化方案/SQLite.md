@@ -2,10 +2,18 @@
 
 ##FMDB
 
+多线程并发：FMDatabaseQueue+FMDatabasePool
+
+
+
+数据库事务：Transaction
+
 
 ###YTKKeyValueStore
 
 YTKKeyValueStore是iOS端的一个 Key-Value 存储类库。封装了fmdb，使用Key-Value式的存储。在存储量不大的情况下，开发上的效率优势很大
+
+
 
 
 ##realm
